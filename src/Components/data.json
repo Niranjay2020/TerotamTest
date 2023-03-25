@@ -1,0 +1,34 @@
+[
+    {
+        "id":"1",
+      "Fname": "Raju",
+      "company": "Twitter Inc",
+      "Email": "TWTR@yopmail.com",
+      "Password":"Chetu@123",
+      "salary": "1000.76 USD"
+    },
+    {
+        "id":"2",
+        "Fname": "sintu",
+        "company": "Twitter Inc",
+        "Email": "sintu@yopmail.com",
+        "Password":"Chetu@123",
+        "salary": "5000.76 USD"
+      },
+      {
+        "id":"3",
+        "Fname": "Niranjay",
+        "company": "Twitter Inc",
+        "Email": "niranjay@yopmail.com",
+        "Password":"Chetu@123",
+        "salary": "200.76 USD"
+      },
+      {
+        "id":"4",
+        "Fname": "Abhay",
+        "company": "Twitter Inc",
+        "Email": "abhay@yopmail.com",
+        "Password":"Chetu@123",
+        "salary": "3000.76 USD"
+      }
+  ]
